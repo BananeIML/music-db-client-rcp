@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+    <action>
+        <actionName>CUSTOM-Run Platform</actionName>
+        <displayName>Run Platform</displayName>
+        <goals>
+            <goal>nbm:run-platform</goal>
+        </goals>
+    </action>
+</actions>

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: de/bananeiml/musicdb/ui/Bundle.properties
+OpenIDE-Module-Layer: de/bananeiml/musicdb/ui/layer.xml
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
